@@ -92,3 +92,4 @@ They can be revoked if a user logs out or if a security breach occurs.
 
 
 ## **📂 Folder Structure**
+![image alt](https://github.com/prasanna-soft-dev/Spring-Boot-Projects/blob/878a855e87f15f40e96ec992d7aa1914b158f378/Access-Refresh-Token/refresh%20token%20testing/Screenshot%20(40).png)
