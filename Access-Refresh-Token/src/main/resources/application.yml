@@ -1,9 +1,9 @@
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/artoken
-    username: admin
-    password: admin
+    url: jdbc:mysql://localhost:3306/"Your database name"
+    username: your username
+    password: your password
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
@@ -14,7 +14,7 @@ spring:
 
 
 jwt:
-  access-secret: NzN4aG9xMkZKc3B2S1dwWmhtWUVNSXQwUnNXN3VtdTQ=
-  refresh-secret: ZGh3M0s4VGJ6TExzQXNTN2p1VEdCTjQ5MEVma2hCY1k=
+  access-secret: "secret key" - use strong one
+  refresh-secret: "secret key" - use strong one
   access-expiration: 900000   # 15 minutes (in milliseconds)
   refresh-expiration: 604800000   # 7 days (in milliseconds)
