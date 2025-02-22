@@ -3,9 +3,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/devsync
-    username: admin
-    password: admin
+    url: jdbc:mysql://localhost:3306/"your database name"
+    username: "your username"
+    password: "your password"
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
@@ -18,6 +18,7 @@ spring:
     consumer:
       group-id: devsync-group
 
-jwt:  # ✅ Move JWT config outside spring.security
+jwt: 
   secret: c29tZXZlcnlzdHJvbmdzZWNyZXQtc3RyaW5nLWhlcmU=
+  # change based on your requirements
   expiration: 3600000
