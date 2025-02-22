@@ -89,8 +89,27 @@ If a user connects after retention expires, messages are lost.
 
 🔹 If a user connects after retention expires, messages are deleted.
 
-**Testing images**
-![image](DevSync testing/User Registration.png)
+## **Testing images**
+
+**User Registration**
+![image](https://github.com/prasanna-soft-dev/Spring-Boot-Projects/blob/ccfa4fa3cb149f5c95424c77324f729ceaec631f/DevSync%20Kafka%20Implementation/DevSync%20testing/User%20Registration.png)
+
+**Access Token Generation**
+![image](https://github.com/prasanna-soft-dev/Spring-Boot-Projects/blob/ccfa4fa3cb149f5c95424c77324f729ceaec631f/DevSync%20Kafka%20Implementation/DevSync%20testing/Acess%20Token%20Generation.png)
+
+**Access Token Verification**
+![image](https://github.com/prasanna-soft-dev/Spring-Boot-Projects/blob/ccfa4fa3cb149f5c95424c77324f729ceaec631f/DevSync%20Kafka%20Implementation/DevSync%20testing/Access%20Token%20verification.png)
+
+**Message sending**
+![image](https://github.com/prasanna-soft-dev/Spring-Boot-Projects/blob/ccfa4fa3cb149f5c95424c77324f729ceaec631f/DevSync%20Kafka%20Implementation/DevSync%20testing/Send%20Message%20Endpoint.png)
+
+**Message Received**
+![image](https://github.com/prasanna-soft-dev/Spring-Boot-Projects/blob/ccfa4fa3cb149f5c95424c77324f729ceaec631f/DevSync%20Kafka%20Implementation/DevSync%20testing/Message%20Received.png)
+
+**User Database Table**
+![image](https://github.com/prasanna-soft-dev/Spring-Boot-Projects/blob/ccfa4fa3cb149f5c95424c77324f729ceaec631f/DevSync%20Kafka%20Implementation/DevSync%20testing/User%20Database.png)
+
+
 
 
 # **🛠️ Contributors**
