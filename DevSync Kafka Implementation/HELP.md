@@ -89,6 +89,9 @@ If a user connects after retention expires, messages are lost.
 
 🔹 If a user connects after retention expires, messages are deleted.
 
+**Testing images**
+![image](DevSync testing/User Registration.png)
+
 
 # **🛠️ Contributors**
 
