@@ -36,7 +36,7 @@
 
 
 ## **📂 Project Structure**
-
+![image][https://github.com/prasanna-soft-dev/Spring-Boot-Projects/blob/668f7abda11c4de39bf46ee5e38a79499cdc2665/DevSync%20Kafka%20Implementation/DevSync%20testing/Project%20Structure.png]
 
 ## **⚙️ Installation & Setup**
 
