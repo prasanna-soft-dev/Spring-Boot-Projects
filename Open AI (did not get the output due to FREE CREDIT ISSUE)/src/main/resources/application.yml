@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/DB-NAME
+    username: YOUR USERNAME
+    password: YOUR PASSWORD
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      dialect: org.hibernate.dialect.MySQLDialect
+
+openai:
+  api:
+    key: OPENAI SECRET KEY
+    model: MODEL NAME

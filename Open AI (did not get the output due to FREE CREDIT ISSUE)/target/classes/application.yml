@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/codereview
+    username: admin
+    password: admin
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      dialect: org.hibernate.dialect.MySQLDialect
+
+openai:
+  api:
+    key: "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"
+    model: "gpt-4o"
